@@ -1,4 +1,10 @@
 # estudohtml
+Veja essa caminhada no https://www.youtube.com/@eusendoadulto
+
+Estou tentando fazer as aulas e alterando tudo, porém nem tudo esta certo, estou testando e fazendo minhas coisas...
+
+
+
 Esse repositorio é apenas um projeto de aprendizado do curso html 5 css do curso em video.
 
 Isso é um projeto junto com outros amigos, o foco aqui é estudar 3horas seguidas e grava o que e como está estudando, no meu caso vou estudar programação usando o GPT.
