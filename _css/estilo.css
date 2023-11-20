@@ -160,7 +160,13 @@
 
     }
 
-
+    h3.direita {
+        position: relative;
+        margin-right: 5px;
+        text-align: right;
+        font-size: 10pt;
+        font-weight: 200;
+    }
     section#bodycorte {
         display: block;
         width: 55%;
